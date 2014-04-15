@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/angularSixtyMinutes.iml" filepath="$PROJECT_DIR$/angularSixtyMinutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../googleAppEngineIdea/googleAppEngineIdea.iml" filepath="$PROJECT_DIR$/../../googleAppEngineIdea/googleAppEngineIdea.iml" />
+    </modules>
+  </component>
+</project>
+
